@@ -1,0 +1,38 @@
+--2015-05-05 18:53:45--  http://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Date: Tue, 05 May 2015 23:57:45 GMT
+  Server: Apache/2.4.7 (Ubuntu)
+  Last-Modified: Tue, 05 May 2015 21:46:49 GMT
+  ETag: "31ef2-5155c9da2bef9"
+  Accept-Ranges: bytes
+  Content-Length: 204530
+  Vary: Accept-Encoding
+  Keep-Alive: timeout=5, max=100
+  Connection: Keep-Alive
+  Content-Type: text/plain
+Length: 204530 (200K) [text/plain]
+Saving to: `file_001.txt'
+
+     0K .......... .......... .......... .......... .......... 25%  464K 0s
+    50K .......... .......... .......... .......... .......... 50%  948K 0s
+   100K .......... .......... .......... .......... .......... 75% 1.58M 0s
+   150K .......... .......... .......... .......... ......... 100%  944K=0.2s
+
+2015-05-05 18:53:45 (819 KB/s) - `file_001.txt' saved [204530/204530]
+
+--2015-05-05 18:54:04--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 18:54:14--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 18:54:32--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 18:55:40--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 18:57:12--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 19:19:27--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
+--2015-05-05 19:19:34--  https://52.6.220.133/file_001.txt
+Connecting to 52.6.220.133:443... failed: Connection refused.
